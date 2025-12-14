@@ -1,3 +1,3 @@
-+ [adapter_card](adapter_card)
++ [adapter-card](adapter_card)
 + [newsreader](newsreader)
-+ [off-site_storage](off-site_storage)
++ [off-site-storage](off-site_storage)
